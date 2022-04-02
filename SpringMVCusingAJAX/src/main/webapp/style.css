@@ -1,0 +1,21 @@
+*
+{
+	margin:0px;
+}
+
+header
+{
+	height:100px;
+	background-color:orange;
+}
+section
+{
+	height:500px;
+	padding-top:40px;
+	background-color:gray;
+}
+footer
+{
+	height:100px;
+	background-color:orange;
+}
